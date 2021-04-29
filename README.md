@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ceMigaming
+- 👀 I’m interested in programming, video games and other nerdy stuff.
+- 🌱 I’m currently learning LibGDX Java library.
+- 📫 How to reach me on Discord: ceMi#5812
