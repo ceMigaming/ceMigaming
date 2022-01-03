@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ceMigaming
 - 👀 I’m interested in programming, video games and other nerdy stuff.
-- 🌱 I’m currently learning LibGDX Java library.
+- 🌱 I’m currently learning ASP.NET
 - 📫 Reach me on Discord: ceMi#5812
