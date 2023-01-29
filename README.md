@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ceMigaming
 - 👀 I’m interested in programming, video games and other nerdy stuff.
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning Java Spring
 - 📫 Reach me on Discord: ceMi#5812
