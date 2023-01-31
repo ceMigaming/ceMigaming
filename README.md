@@ -7,6 +7,7 @@ I like programming and playing games
 ## Here's my summarized portfolio:
 * Java, C#, C++/C, HTML/JS/CSS, Lua and Python programming.
 * Modding games is my passion - Minecraft Forge, Rust Oxide, BTD6 with Melon Loader.
+* Knowledge about 3D rendering using code.
 * Game engines knowledge: Unity, UE4, GMS, Roblox.
 * I also took part in a science project [**AstroPI**](https://github.com/ceMigaming/AstroPI).
 * Basic Blender and Maya modelling knowledge.
