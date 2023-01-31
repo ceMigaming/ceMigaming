@@ -8,6 +8,7 @@ I like programming and playing games
 * Java, C#, C++/C, HTML/JS/CSS, Lua and Python programming.
 * Modding games is my passion - Minecraft Forge, Rust Oxide, BTD6 with Melon Loader.
 * Game engines knowledge: Unity, UE4, GMS, Roblox.
+* I also took part in a science project [**AstroPI**](https://github.com/ceMigaming/AstroPI).
 * Basic Blender and Maya modelling knowledge.
 * I can use Source's Hammer editor.
 * I have a basic knowledge of film making with Blender, Camtasia and HitFilm studio.
